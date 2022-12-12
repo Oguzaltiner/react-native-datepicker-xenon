@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+string connecting
+string err_bt_socket
+string err_disconnect_printer
+string err_feed_paper
+string err_fetch_st
+string err_fetch_tmp
+string err_lines_number
+string err_no_bt_adapter
+string err_no_bt_device
+string err_print
+string err_print_barcode
+string err_print_img
+string err_print_rect
+string err_print_test
+string err_set_barcode
+string failed_to_comm
+string failed_to_connect
+string failed_to_initialize
+string low_battery
+string no_paper
+string overheating
+string paper_ok
+string printer
+string printer_connected
+string printer_disconnected
